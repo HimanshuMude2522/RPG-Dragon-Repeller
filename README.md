@@ -1,5 +1,5 @@
 # RPG-Dragon-Repeller
-- RPG-Dragon-Repeller: Conquer the Dragon in an Epic Adventure!
+# RPG-Dragon-Repeller: Conquer the Dragon in an Epic Adventure!
 
 RPG-Dragon-Repeller is a text-based role-playing game (RPG) developed using HTML, CSS, and JavaScript. In the game, the player assumes the role of a hero who must defeat various monsters and ultimately the dragon to win. The game features different locations, including a town square, a store, and a cave, each offering different actions and encounters.
 
